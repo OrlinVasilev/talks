@@ -21,11 +21,11 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-23 June '23 |  Blog | [template](https://template/
+23 June '23 |  Blog | [template](https://template/)
 
 
 ## Podcasts/Articles/etc. (Appearances & Hosting)
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
-23 June '23 |  Blog | [template](https://template/
+23 June '23 |  Blog | [template](https://template/)
